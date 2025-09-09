@@ -1,0 +1,24 @@
+# Ignore model files
+models/
+*.gguf
+*.bin
+*.pth
+*.pt
+*.ckpt
+
+# Ignore vectorstore and history (optional, if very large)
+vectorstores/
+history/
+shared_chats/
+uploaded/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/

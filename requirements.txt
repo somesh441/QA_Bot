@@ -1,0 +1,17 @@
+streamlit
+langchain==0.3.26
+faiss-cpu==1.7.4
+pytesseract
+pdfplumber
+python-docx
+Pillow
+sentence-transformers
+uuid
+langchain-community
+torch
+pymupdf
+
+
+# Optional for local models (if using Ollama or similar)
+# llama-cpp-python
+# langchainhub
