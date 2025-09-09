@@ -3,7 +3,8 @@
 An interactive Streamlit chatbot that can answer questions from uploaded documents (PDF, DOCX, Images). Supports multi-step reasoning, tables, code blocks, session history, and chat sharing.
 
 ---
-
+## 🚀 Live Demo
+Link:https://5r6kuomow9wywprhxfvc6l.streamlit.app/
 ## 🧱 Folder Structure
 
 ```
